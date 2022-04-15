@@ -1,2 +1,3 @@
 # Twitter-Clone
-twitter clone
+
+html, css, responsive twitter clone 
