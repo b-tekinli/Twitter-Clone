@@ -3,11 +3,11 @@ MOBILE : < 1023;
 DESKTOP : > 1024;
 */
 
-@import "_reboot.css";
-@import '_grid.css';
-@import "_header.css";
-@import "_navbar.css";
-@import '_aside.css';
-@import '_article.css';
-@import '_form.css';
-@import "_footer.css";
+@import "/_reboot.css";
+@import '/_grid.css';
+@import "/_header.css";
+@import "/_navbar.css";
+@import '/_aside.css';
+@import '/_article.css';
+@import '/_form.css';
+@import "/_footer.css";
